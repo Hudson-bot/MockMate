@@ -19,7 +19,7 @@ export async function makeAPIRequest(prompt, retryCount = 3, timeout = 30000) {
       const response = await fetch('https://openrouter.ai/api/v1/chat/completions', {
         method: 'POST',
         headers: {
-          Authorization: 'Bearer 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',
+          Authorization: 'Bearer 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',
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
