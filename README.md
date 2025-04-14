@@ -4,9 +4,13 @@
 
 ---
 ## 📸 Screenshots & Demo
+## Here is the MockMate . If you want to have some fun try it. https://mock-mate.netlify.app/ (Try open AI Model)
+
 ![Screenshot 2025-04-14 231535](https://github.com/user-attachments/assets/366a3ce0-459a-4f66-a7e3-5b27faf732f9)
 ![WhatsApp Image 2025-04-14 at 23 15 40_cc8bb0d8](https://github.com/user-attachments/assets/8619e263-0f89-4b5b-914f-ab87b2423dd7)
 ![Screenshot 2025-04-14 231558](https://github.com/user-attachments/assets/910aff2f-afe5-410d-ba85-2745983073a4)
+![WhatsApp Image 2025-04-14 at 23 54 39_5f4a9e6f](https://github.com/user-attachments/assets/eab4ea27-1a49-4025-bc57-704a80842872)
+
 ![WhatsApp Image 2025-04-14 at 20 49 19_1a925b1b](https://github.com/user-attachments/assets/a934461c-c3d5-444f-8c2a-83b2698b52ac)
 
 
