@@ -10,7 +10,7 @@
 ![WhatsApp Image 2025-04-14 at 20 49 19_1a925b1b](https://github.com/user-attachments/assets/a934461c-c3d5-444f-8c2a-83b2698b52ac)
 
 
-## Here is the Jinny AI. If you want to have some fun try it. https://jinny.onrender.com/
+## Here is the Jinny AI. If you want to have some fun try it. https://jinny.onrender.com/ (Try open AI Model)
 ![Screenshot 2025-04-14 232014](https://github.com/user-attachments/assets/0d28dabd-2fb3-456c-a148-323e1e4f02b8)
 
 ![Screenshot 2025-04-14 231957](https://github.com/user-attachments/assets/38d2da79-a157-4e7f-8a59-4e94bb06dcd1)
@@ -103,6 +103,6 @@ An **AI-powered mock interview voice assistant** that simulates real interviews,
 - 💼 Professionals seeking soft skill development  
 
 ---
-
+ ## Here is the ppt link : https://docs.google.com/presentation/d/1B2N3crTFfkfS5nj4bAZEIgpbAl5WMNcJ/edit?usp=sharing&ouid=105304374147232547557&rtpof=true&sd=true
 
 
