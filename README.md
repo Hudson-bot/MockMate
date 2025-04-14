@@ -6,9 +6,12 @@
 ## 📸 Screenshots & Demo
 ![Screenshot 2025-04-14 231535](https://github.com/user-attachments/assets/366a3ce0-459a-4f66-a7e3-5b27faf732f9)
 
-![Screenshot 2025-04-14 231558](https://github.com/user-attachments/assets/910aff2f-afe5-410d-ba85-2745983073a4)
 
 ![WhatsApp Image 2025-04-14 at 23 15 40_cc8bb0d8](https://github.com/user-attachments/assets/8619e263-0f89-4b5b-914f-ab87b2423dd7)
+![Screenshot 2025-04-14 231558](https://github.com/user-attachments/assets/910aff2f-afe5-410d-ba85-2745983073a4)
+![WhatsApp Image 2025-04-14 at 20 49 19_1a925b1b](https://github.com/user-attachments/assets/a934461c-c3d5-444f-8c2a-83b2698b52ac)
+
+
 
 ## Here is the Jinny AI. If you want to have some fun try it. https://jinny.onrender.com/
 ![Screenshot 2025-04-14 232014](https://github.com/user-attachments/assets/0d28dabd-2fb3-456c-a148-323e1e4f02b8)
