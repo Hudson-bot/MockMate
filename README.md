@@ -15,6 +15,7 @@
 
 
 ## Here is the Jinny AI. If you want to have some fun try it. https://jinny.onrender.com/ (Try open AI Model)
+## Here is the tutorial- https://photos.app.goo.gl/rVpQwvQ8v8YXdD1Q9
 ![Screenshot 2025-04-14 232014](https://github.com/user-attachments/assets/0d28dabd-2fb3-456c-a148-323e1e4f02b8)
 
 ![Screenshot 2025-04-14 231957](https://github.com/user-attachments/assets/38d2da79-a157-4e7f-8a59-4e94bb06dcd1)
